@@ -36,7 +36,7 @@ const Introduction: React.FC = () => {
                         Get to know me a little more exploring this website 😊
                     </h3>
                 </div>
-                <img className = 'portrait' src = {Portrait} />
+                <img className = 'portrait' alt = 'portrait' src = {Portrait} />
             </section>
         </>
     );
