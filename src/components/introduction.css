@@ -12,12 +12,12 @@
 .intro{
     width: 28%;
     margin-right: 2.5rem;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .intro h1{
     font-size:1.6rem;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .intro h3{
