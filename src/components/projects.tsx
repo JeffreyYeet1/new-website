@@ -7,19 +7,19 @@ const Projects: React.FC = () => {
             <section className = 'projectscontainer'>
                 <nav className = 'scrollingsection'>
                     <div>
-                        <img />
+                        <img alt ='project1'/>
                         <p>Project 1</p>
                     </div>
                     <div>
-                        <img />
+                        <img alt ='project2'/>
                         <p>Project 2</p>
                     </div>
                     <div>
-                        <img />
+                        <img alt ='project3'/>
                         <p>Project 3</p>
                     </div>
                     <div>
-                        <img />
+                        <img alt ='project4'/>
                         <p>Project 4</p>
                     </div>
           

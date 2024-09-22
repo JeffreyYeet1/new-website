@@ -14,7 +14,7 @@ const Gallery: React.FC = () => {
                     </h3>
                 </aside>
                 <div className="imagecontainer">
-                    <img />
+                    <img alt ='pictures'/>
                     <p>
                         &lt;-- | --&gt;
                     </p>
