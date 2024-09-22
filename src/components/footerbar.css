@@ -3,12 +3,11 @@
     height:6rem;
     bottom:0;
     background-color: lavender;
-    position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
 }
-
 .footerbar ul{
     margin:0;
     list-style: none;

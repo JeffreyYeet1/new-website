@@ -1,0 +1,31 @@
+.gallerycontainer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height:100vh;
+}
+
+.galleryaside{
+    margin:7.5rem;
+    margin-top:12.5rem;
+}
+
+.galleryheader{
+    margin:0;
+    font-size: 2.5rem;
+}
+
+.imagecontainer{
+    height:100%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imagecontainer img{
+    height: 60%;
+    width:60%;
+    justify-items: center;
+    border-radius: 1rem;
+}
